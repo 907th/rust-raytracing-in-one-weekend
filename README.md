@@ -6,4 +6,10 @@ It was inspired by the [greatest-ever Rust lectures](https://youtube.com/playlis
 taught by the [Aleksey Kladov](https://github.com/matklad)
 in [Computer Science Center](https://compscicenter.ru/courses/rustprogramming/2019-spring/).
 
+# Progress
 
+Here are the result images I obtained while working on this project:
+
+![image1](images/image1.jpg)
+![image2](images/image2.jpg)
+![image3](images/image3.jpg)
